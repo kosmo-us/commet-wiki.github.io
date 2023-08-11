@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doks-child-theme.netlify.app/sitemap.xml
+Sitemap: https://kosmo-us.github.io/commet-wiki.github.io/sitemap.xml
