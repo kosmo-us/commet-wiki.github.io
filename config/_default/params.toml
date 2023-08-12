@@ -4,40 +4,40 @@
 title = "COMMET"
 titleSeparator = "-"
 titleAddition = "Wiki"
-description = "The COMMET, Community for Educational Torrents, is a dynamic, grassroots educational community. Our mission is as clear as the day: Empower students and knowledge-seekers alike by creating an ecosystem where learning materials flow freely like a river of wisdom. Making it possible by the power of torrents."
+description = "The COMMET, Community for Educational Torrents, is a dynamic, grassroots educational community. Our mission is as clear as the day: Empower students and knowledge-seekers alike by creating an ecosystem where learning materials flow freely like a river of wisdom. Making it possible with the power of torrents."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+#images = 
+#ogLocale = "en_US"
+#domainTLD = 
+#titleHome = 
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+#twitterSite = 
+#twitterCreator = 
 
 ## JSON-LD
 # schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
-schemaSection = "blog"
+#schemaType = "Organization"
+#schemaName = "Doks"
+#schemaAuthor = 
+#schemaAuthorTwitter = 
+#schemaAuthorLinkedIn = 
+#schemaAuthorGitHub = 
+#schemaLocale = "en-US"
+#schemaLogo = 
+#schemaLogoWidth = 512
+#schemaLogoHeight = 512
+#schemaImage = 
+#schemaImageWidth = 1280
+#schemaImageHeight = 640
+#schemaTwitter = 
+#schemaLinkedIn =
+#schemaGitHub = 
+#schemaSection = "blog"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://github.io/\">Github</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
@@ -84,7 +84,7 @@ docsRepo = "https://github.com/commet-wiki/commet-wiki.github.io"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = true
-lastMod = false
+lastMod = true
 
 [sections]
   sectionNav = ["docs", "guides"]

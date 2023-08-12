@@ -1,10 +1,9 @@
 ---
 title: "Contributors"
-description: "The Doks contributors."
+description: "Contributors."
 date: 2020-10-06T08:50:29+00:00
 lastmod: 2020-10-06T08:50:29+00:00
-draft: false
+draft: true
 images: []
 ---
 
-The Doks contributors.
