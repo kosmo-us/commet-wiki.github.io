@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kosmo-us.github.io/commet-wiki.github.io/sitemap.xml
+Sitemap: https://commet-wiki.github.io/sitemap.xml
