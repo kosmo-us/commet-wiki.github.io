@@ -31,13 +31,6 @@ No, don't skip this section already. The major intention behind creating COMMET 
 So, let's see how it goes. It doesn't mean we intend to have only uploaders in COMMET. It's no community without variety. Not just for the sake of variety, we welcome seeders, who don't upload (may as well) but help the content reach more people by giving a share of their valuable bandwidth or resources; true heroes (not exaggerated tbh) and an integral part of the system.  And people who are interested in accessing the torrents only. Could be students, teachers, or anyone. Or whether you just stumbled upon this wiki randomly out of curiosity. Everyone's warmly welcomed. Even the members who do not wish to upload or seed can help the community as well,  by sharing content with those in the community who wish to upload and thus making it recheable to more people. I have explained it in the [Contribute]({{< relref "contribute" >}}) page as well. And Here's how you can [Join]({{< relref "how-to-join" >}}), in case you didn't find the links already.
 <br><br><br>
 
-### Our ideology
-
-We believe that knowledge and information should flow freely without any constraints, such as economic background or anything of that sort. And those who are buying. Thank you; you are doing a great job as well. Long story short, we are not against anyone, but we are on the side of knowledge-seekers. And knowledge and information should flow freely, as I said.
-
-If you do not support this ideology, I welcome you. If you do, I welcome you.
-<br><br><br>
-
 ### Rules:
 
 Like every organized community, we do have some rules that I hope the members will follow. These apply to everyone, from a general member to the founder.  
