@@ -16,7 +16,7 @@ toc: true
 
 ## This page features the verified uploaders in our community
 
-### How to be a get that "Verified Uploader" tag
+### How to get that "Verified Uploader" tag
 
 >**To apply for "Verified uploader" tag with your name fill this form with the instructions given below:**
 >
