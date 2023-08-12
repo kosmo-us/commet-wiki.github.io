@@ -1,2 +1,2 @@
-baseurl = "https://kosmo-us.github.io/commet-wiki.github.io/"
+baseurl = "commet-wiki.github.io/"
 canonifyURLs = true
