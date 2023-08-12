@@ -20,4 +20,4 @@ COMMET, Community for Educational Torrents, is a dynamic, grassroots educational
 
 ### Some RULES of our Community
 
-Nothing for now
+Nothing for now.
