@@ -42,7 +42,7 @@ If you do not support this ideology, I welcome you. If you do, I welcome you.
 
 Like every organized community, we do have some rules that I hope the members will follow. These apply to everyone, from a general member to the founder.  
   
-1. **You are not allowed to share any type of content for the exchange of money or any such equivalent. This will get you banned instantly, without any warning. The buyer won't be punished, though.**
+1. **You are not allowed to share any type of content for the exchange of money or anything equivalent to it. This will get you banned instantly, without any warning. The buyer won't be punished, though.**
 
 2. **Doxxing any member of the community will not be tolerated. You are supposed to respect everyone's privacy. Not following this rule will obviously get you banned without a warning.**
 
