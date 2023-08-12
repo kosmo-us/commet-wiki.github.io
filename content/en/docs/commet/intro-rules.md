@@ -22,7 +22,7 @@ students and knowledge-seekers alike by creating an ecosystem where
 learning materials flow freely like a river of wisdom. Making it  
 possible with the power of torrents.
 
-### How it started and what do we intend to be?
+### What do we intend to be?
 
 As already said "A community for educational torrents", that's it then?  
   
