@@ -31,4 +31,4 @@ toc: true
 
 ### Our UPLOADERS:
 
-1. No one yet, you could be the first one in the list.
+1. No one yet, you could be the first one on the list.
