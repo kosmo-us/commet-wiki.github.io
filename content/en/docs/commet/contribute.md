@@ -17,7 +17,7 @@ toc: true
 
 #### Logo Design
 
-We invite talented artists and designers within our community to contribute their creative vision by designing a logo that encapsulates the essence of our educational resource-sharing mission. The logo should reflect our commitment to unity, growth, and access to knowledge. Submissions can be posted in the designated logo design thread in our discord.
+We invite talented artists and designers within our community to contribute their creative vision by designing a logo that encapsulates the essence of our educational resource-sharing mission. The logo should reflect our commitment to unity, growth, and access to knowledge. Submissions can be posted in the designated logo design room in our Matrix Space.
 
 #### Uploaders
 
@@ -43,4 +43,4 @@ You can go even further and add new pages in the wiki if you wish to. Here's the
 
 #### Blogs
 
-We welcome you to share your knowledge and experience with us and write a blog for our wiki. You can add your blog page in our [Github](https://github.com/commet-wiki/commet-wiki.github.io) or just submit it to us in the discord server. More info about discord submission method is available in the discord itself.
+We welcome you to share your knowledge and experience with us and write a blog for our wiki. You can add your blog page in our [Github](https://github.com/commet-wiki/commet-wiki.github.io) or just submit it to us in the blog submission room in our Matrix.
