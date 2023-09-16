@@ -27,7 +27,7 @@ toc: true
 >- **No Trolling**
 >A *troll* is someone who deliberately posts or sends annoying or offensive messages with the intention to cause disruption or trouble, or to insult someone.
 >
->**No Spamming**
+>- **No Spamming**
 >Spamming is forbidden and the violators would be banned instantly. You are also not allowed to advertise anything that is not related to the community. Advertisement relating to torrents or educational resources will not be banned if it's helpful for the community.
 >
 >- **Be Respectful**
