@@ -24,4 +24,3 @@ toc: true
 - [Deluge](https://deluge-torrent.org/)
 - [Transmission](https://transmissionbt.com/)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
-
