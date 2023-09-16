@@ -10,11 +10,11 @@
   identifier = "resources"
   url = "/docs/resources/"
 
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
+ [[docs]]
+   name = "Help"
+   weight = 70
+   identifier = "help"
+   url = "/docs/help/"
 
 #[[guide]]
 #  name = "Lorem"
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Info"
-  url = "/docs/commet/intro-rules/"
+  url = "/docs/commet/intro/"
   weight = 10
 
 [[main]]

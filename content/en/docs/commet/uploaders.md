@@ -1,7 +1,7 @@
 ---
 title: "Uploaders"
 description: ""
-lead: ""
+lead: "This page features the verified uploaders in our community"
 date: 2023-08-13T01:08:17+05:30
 lastmod: 2023-08-13T01:08:17+05:30
 draft: false 
@@ -14,8 +14,6 @@ weight: 999
 toc: true
 ---
 
-## This page features the verified uploaders in our community
-
 ### How to get that "Verified Uploader" tag
 
 >**To apply for "Verified uploader" tag with your name fill this form with the instructions given below:**
@@ -26,9 +24,10 @@ toc: true
 #### Requirements to meet:
 
 >For uploaders uploading on public trackers, you must have at least 60 good quality **Educational Torrents** uploaded.
->For uploaders uploadind on major private trackers there's no requirements as such but the uploaded torrents must fall into the "Educational Torrents" category.
-<br><br><br>
+>For uploaders uploading on major private trackers there's no requirements as such but the uploaded torrents must fall into the "Educational Torrents" category.
 
-### Our UPLOADERS:
+<br>
+
+#### Our UPLOADERS:
 
 1. No one yet, you could be the first one on the list.
