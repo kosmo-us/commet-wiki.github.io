@@ -30,4 +30,4 @@ toc: true
 
 #### Our UPLOADERS:
 
-1. No one yet, you could be the first one on the list.
+1. No one except the founder himself yet, you could be the first one on the list.
