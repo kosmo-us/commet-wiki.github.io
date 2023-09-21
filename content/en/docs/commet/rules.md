@@ -36,4 +36,6 @@ toc: true
 <br><br><br>
 *Other than these, we expect everyone to be resposible and helpful towards each other*
 
+----
+
 ***Please note that no one, the founders of the community, the members, neither the mods, nor COMMET itself, is responsible for any copyright infringement that might happen because of any particular torrent. Only the uploader is to be held responsible. COMMET is not a content aggregation platform, neither we store any torrent files on our site. It is solely the responsibility of the uploaders what they choose to upload on the torrent sharing sites of their choice. It's a loosely bound community for sharing freely available educational content in the form of torrents of which any uploader or leecher can be a part of.***
