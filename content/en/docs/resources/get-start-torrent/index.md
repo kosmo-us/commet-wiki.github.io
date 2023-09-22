@@ -137,3 +137,7 @@ However, it's important to note that PEX is not without its challenges. While it
 - **Super Seeder:** A user who only shares the rarest parts of a file to ensure faster distribution in the swarm. Super seeders are common on private trackers.
 
 - **Torrent Site:** A website that hosts torrent files or magnet links for various files. These sites may list torrents for movies, music, software, games, and more
+
+
+
+*For tutorials on downloading and creating torrents, check [FAQ](/docs/help/faq/)*
