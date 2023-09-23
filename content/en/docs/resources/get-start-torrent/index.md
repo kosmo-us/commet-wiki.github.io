@@ -138,6 +138,6 @@ However, it's important to note that PEX is not without its challenges. While it
 
 - **Torrent Site:** A website that hosts torrent files or magnet links for various files. These sites may list torrents for movies, music, software, games, and more
 
-
+<br><br><br>
 
 *For tutorials on downloading and creating torrents, check [FAQ](/docs/help/faq/)*
