@@ -29,9 +29,19 @@
 #  url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Info"
+  name = "About"
   url = "/docs/commet/intro/"
   weight = 10
+
+[[main]]
+  name = "Knowledge base"
+  url = "/docs/resources/get-start-torrent/"
+  weight = 11
+
+[[main]]
+  name = "FAQ"
+  url = "/docs/help/faq/"
+  weight = 12
 
 [[main]]
   name = "Blog"
