@@ -34,7 +34,7 @@ toc: true
 >Respect other members in the community, their views and opinions.
 >
 <br><br><br>
-*Other than these, we expect everyone to be resposible and helpful towards each other*
+*Other than these, we expect everyone to be responsible and helpful towards each other*
 
 ----
 
