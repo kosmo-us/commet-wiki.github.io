@@ -65,6 +65,14 @@ toc: true
 >   - [Bitport.io](https://bitport.io/) (Web Client)
 >   - [PeerBlock](https://www.peerblock.com/)
 >   - [Swizzin](https://swizzin.ltd/) (Seedbox solution)
-
+>   - Online/offline software/file scanners:
+>     - [VirusTotal](https://www.virustotal.com/gui/home/upload)
+>     - [ESET](https://www.eset.com/int/home/online-scanner/) (Available for download as well)
+>     - [Hybrid Analysis](https://www.hybrid-analysis.com/)
+<br><br>
+>   - Sandbox tools for testing software behaviour and malwares
+>     - Windows Sandbox
+>     - A virtual machine
+>     - [Joe Sandbox](https://www.joesandbox.com/#windows) (Online)
 <br><br><br>
 *This is an ever-evolving page, expect frequent changes in the list and maybe even new lists*
