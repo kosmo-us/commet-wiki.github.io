@@ -16,9 +16,9 @@ toc: true
 <br>
 <b>FCEM is a telegram community dedicated to sharing educational materials for free using the power of torrents</b>
 <br><br>
-<h3> Group links</h3>
+<h3>Group links</h3>
 <ul>
-<li><a href="https://t.me/+omrCECMQSkRjNTk1">Main Telegram group</a>
+<li><a href="https://t.me/+omrCECMQSkRjNTk1">Main Telegram group</a> (last updated 26th Sep 2023)
 <li>Backup Telegram Group (to be updated soon)
 </ul><br><br>
 If you are new to torrenting, you can always follow the official COMMET <a href="https://commet-wiki.github.io/docs/resources/get-start-torrent/">resources</a> and <a href="https://commet-wiki.github.io/docs/help/faq/">FAQ</a> for any beginner to intermediate level doubts.
