@@ -34,6 +34,6 @@ toc: true
 >Respect other members in the community, their views and opinions.
 >
 >- **Most importantly, seeding ratio**<br>
->All the members are excpected to seed to the ratio of at least 1:1, or for at least a month (breaks are allowed)
+>All the members are expected to seed to the ratio of at least 1:1, or for at least a month (breaks are allowed)
 <br><br><br>
 *Other than these, we expect everyone to be responsible and helpful towards each other*
