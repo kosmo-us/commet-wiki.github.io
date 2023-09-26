@@ -31,3 +31,4 @@ toc: true
 9. [QA 1000 by CL Part 2](https://1337x.to/torrent/5788985/QA-1000-2-2023-by-ARKKS/)
 10. [QA 1000 by CL Part 3](https://1337x.to/torrent/5811457/QA-1000-3_TIME_VARC-1000-CADs/) (Contains 2022 TIME materials, 2022 VARC 1000 CADs as well)
 11. [Some CAT stuff from 2022 and before](https://iitkgpacin-my.sharepoint.com/:f:/g/personal/mdhussainnew52_iitkgp_ac_in/EvLLERyBPo9PnlspPQa-uIkBEV0GoY1QUYZ-zbTTTJDJ1Q?e=ZErdsK) (Not a torrent, one drive link)
+12. [Elites Grid LRDI Seating Arrangement 2023](https://1337x.to/torrent/5824667/Elites-Grid-DILR-Seating-Arrangement-Lessons-for-CAT-2023/)
