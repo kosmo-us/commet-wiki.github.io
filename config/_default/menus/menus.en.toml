@@ -48,11 +48,10 @@
   url = "/blog/"
   weight = 20
 
-#[[main]]
-#  name = "Get Started"
-#  weight = 30
-#  identifier = "get-started"
-#  url = "/docs/commet/intro-rules/"
+[[main]]
+  name = "Featured communities"
+  weight = 30
+  url = "/external/groups/home/"
 
 
 #[[social]]
