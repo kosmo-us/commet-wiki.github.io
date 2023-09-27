@@ -1,7 +1,7 @@
 ---
 title: "Featured Torrents"
 description: ""
-lead: "Torrents identified and seeded by FCEM"
+lead: "Ever-growing list of torrents identified and seeded by FCEM"
 date: 2023-09-26T19:33:06+05:30
 lastmod: 2023-09-26T19:33:06+05:30
 draft: false
@@ -33,3 +33,10 @@ toc: true
 11. [Some CAT stuff from 2022 and before](https://iitkgpacin-my.sharepoint.com/:f:/g/personal/mdhussainnew52_iitkgp_ac_in/EvLLERyBPo9PnlspPQa-uIkBEV0GoY1QUYZ-zbTTTJDJ1Q?e=ZErdsK) (Not a torrent, one drive link)
 12. [Elites Grid LRDI Seating Arrangement 2023](https://1337x.to/torrent/5824667/Elites-Grid-DILR-Seating-Arrangement-Lessons-for-CAT-2023/)
 13. [Elites Grid LRDI Seating Arrangement 2023](https://1337x.to/torrent/5825035/Elites-Grid-LRDI-2023-Matrix-Arrangement-lessons-for-cat/)
+<br><br>
+
+### CS/IT
+
+1. [Complete Course on Computer Architecture for GATE, Unacademy](https://1337x.to/torrent/5750926/Complete-Course-on-Computer-Architecture-for-GATE/)
+2. [GATE CS/IT courses by Sanchit Jain, Unacademy](https://1337x.to/torrent/5774055/GATE-CS-IT-courses-by-Sanchit-Jain-Unacademy/) (All subjects excluding the one above)
+3. [[GeeksForGeeks] Data Structures With Python](https://1337x.to/torrent/5725276/GeeksForGeeks-Data-Structures-With-Python/)
