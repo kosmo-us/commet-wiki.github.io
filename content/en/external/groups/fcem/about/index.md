@@ -21,6 +21,6 @@ toc: true
 <li><a href="https://t.me/catfreestudy">Telegram Channel</a> (last updated 27th Sep 2023)
 <li><a href="https://t.me/+uS2z67M4RttiOTA9">Telegram Group</a>
 </ul><br><br>
-If you are new to torrenting, you can always follow the official COMMET <a href="https://commet-wiki.github.io/docs/resources/get-start-torrent/">resources</a> and <a href="https://commet-wiki.github.io/docs/help/faq/">FAQ</a> for any beginner to intermediate level doubts.
+<i>Before joining, please make sure to read the <a href="https://commet-wiki.github.io/external/groups/fcem/rules/">rules</a>. And <a href="https://commet-wiki.github.io/external/groups/fcem/torrents/">here's</a> the list of torrents we feature and seed.</i><br><br>If you are new to torrenting, you can always follow the official COMMET <a href="https://commet-wiki.github.io/docs/resources/get-start-torrent/">resources</a> and <a href="https://commet-wiki.github.io/docs/help/faq/">FAQ</a> for any beginner to intermediate level doubts.
 <br><br>
 <i>Please note that none of the members are responsible for any copyright infringement that might if so ever occur. All the materials shared in the group are sourced from various online platforms which offer these content for free.</i>
