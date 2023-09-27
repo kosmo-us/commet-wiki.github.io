@@ -19,4 +19,3 @@ toc: true
 ### Get your community featured
 
 To get featured on this page, join our matrix and ask there. That's it.
-
