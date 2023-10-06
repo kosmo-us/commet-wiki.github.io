@@ -16,7 +16,7 @@ toc: true
 <br>
 <b>FCEM is a telegram community dedicated to sharing educational materials for free using the power of torrents</b>
 <br><br>
-<h3>Group links</h3>
+<h3>FCEM community links</h3>
 <ul>
 <li><a href="https://t.me/+RS1b1pgPjYMwNjNl">Telegram Channel</a> (last updated 29th Sep 2023)
 <li><a href="https://t.me/+tqFn9Kt7E6ZmNTVl">Telegram Group</a>
