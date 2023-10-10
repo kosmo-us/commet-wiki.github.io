@@ -31,7 +31,7 @@ Seeders play a crucial role in ensuring the availability and accessibility of sh
 
 #### Other members
 
-Those who do not want to upload but have access to some valuable learning resources that are not already available or partially available on the torrent sites can share the resources with uploaders for them to upload. More info and the "how-to" can be found on our discord.
+Those who do not want to upload but have access to some valuable learning resources that are not already available or partially available on the torrent sites can share the resources with uploaders for them to upload. More info and the "how-to" can be found on our matrix community.
 
 ### Contribute to the wiki
 
