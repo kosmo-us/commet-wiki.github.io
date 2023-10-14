@@ -70,3 +70,11 @@ toc: true
 1. [Complete Course on Computer Architecture for GATE, Unacademy](https://1337x.to/torrent/5750926/Complete-Course-on-Computer-Architecture-for-GATE/)
 2. [GATE CS/IT courses by Sanchit Jain, Unacademy](https://1337x.to/torrent/5774055/GATE-CS-IT-courses-by-Sanchit-Jain-Unacademy/) (All subjects excluding the one above)
 3. [[GeeksForGeeks] Data Structures With Python](https://1337x.to/torrent/5725276/GeeksForGeeks-Data-Structures-With-Python/)
+<br><br>
+
+### Bank exams
+
+- Revolution 2023 : Complete Course of Quant for All Bank Exams 2023 by Aashish Arora, Unacademy
+  - [Part I](https://1337x.to/torrent/5846674/I-Revolution-2023-Complete-Course-of-Quant-for-All-Bank-Exams-2023-by-Aashish-Arora-Unacademy/)
+  - [Part II](https://1337x.to/torrent/5846691/II-Revolution-2023-Complete-Course-of-Quant-for-All-Bank-Exams-2023-by-Aashish-Arora-Unacademy/)
+  - [Part III](https://1337x.to/torrent/5846694/III-Revolution-2023-Complete-Course-of-Quant-for-All-Bank-Exams-2023-by-Aashish-Arora-Unacademy/)
