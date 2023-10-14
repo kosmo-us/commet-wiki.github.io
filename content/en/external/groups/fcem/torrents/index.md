@@ -13,7 +13,7 @@ images: []
 weight: 999
 toc: true
 ---
-<br><br>
+<br>
 
 ### CAT
 
@@ -22,7 +22,6 @@ toc: true
 - [CAT MBA Study Materials](https://1337x.to/torrent/5712552/CAT-MBA-Study-Materials/)
 - [DILR 1000 by Career Launcher](https://1337x.to/torrent/5714102/DILR-1000-by-Career-Launcher/)
 - [Elites Grid LRDI 2022 CAT MBA](https://1337x.to/torrent/5709039/Elites-Grid-LRDI-2022-CAT-MBA/)
-<br>
 
 ----
 
@@ -34,14 +33,10 @@ toc: true
 
 ----
 
-<br>
-
 - [QA 1000 by CL Part 1 (It's a three part torrent)](https://1337x.to/torrent/5762913/QA-1000-2023-1/)
 - [QA 1000 by CL Part 2](https://1337x.to/torrent/5788985/QA-1000-2-2023-by-ARKKS/)
 - [QA 1000 by CL Part 3](https://1337x.to/torrent/5811457/QA-1000-3_TIME_VARC-1000-CADs/) (Contains 2022 TIME materials, 2022 VARC 1000 CADs as well)
 - [Some CAT stuff from 2022 and before](https://iitkgpacin-my.sharepoint.com/:f:/g/personal/mdhussainnew52_iitkgp_ac_in/EvLLERyBPo9PnlspPQa-uIkBEV0GoY1QUYZ-zbTTTJDJ1Q?e=ZErdsK) (Not a torrent, one drive link)
-
-<br>
 
 ----
 
@@ -58,8 +53,6 @@ toc: true
   - [Daily Puzzles for CAT](https://1337x.to/torrent/5834138/Elites-Grid-LRDI-2023-Daily-Puzzles-for-CAT/)
 
 ----
-
-<br>
 
 - [Comprehensive Course on Number System for CAT 2023 by Ravi Prakash, Unacademy](https://1337x.to/torrent/5833550/Comprehensive-Course-on-Number-System-for-CAT-2023-by-Ravi-Prakash-Unacademy/)
 - [Arithmetic for CAT by Ravi Prakash 2023](https://1337x.to/torrent/5779214/Arithmetic-for-CAT-by-Ravi-Prakash-2023/)
