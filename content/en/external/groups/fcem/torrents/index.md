@@ -74,3 +74,5 @@ toc: true
 - [UDAAN - A complete Course on (Prelim) DI for Bank Exams by Aashish Arora, Unacademy](https://1337x.to/torrent/5848073/UDAAN-A-complete-Course-on-Prelim-DI-for-Bank-Exams-by-Aashish-Arora-Unacademy/)
 - [DISHA 2.0 : Practice Course of Arithmetic & DI for RRB PO/Clerk Pre 2023 Exam](https://1337x.to/torrent/5848084/DISHA-2-0-Practice-Course-of-Arithmetic-DI-for-RRB-PO-Clerk-Pre-2023-Exam-by-Ashish-Arora-Unacademy/)
 - [Graph Genius: High Level DI for RRB PO/Clerk Mains 2023 by Aashish Arora, Unacademy](https://1337x.to/torrent/5848115/Graph-Genius-High-Level-DI-for-RRB-PO-Clerk-Mains-2023-by-Aashish-Arora-Unacademy/)
+- [ArithmeticX: High Level Arithmetic for RRB PO/Clerk Mains 2023 by Aashish Arora, Unacademy](https://1337x.to/torrent/5849686/ArithmeticX-High-Level-Arithmetic-for-RRB-PO-Clerk-Mains-2023-by-Aashish-Arora/)
+- [Mains Made Easy - High Level Practice Course for Bank Exams Mains 2023 by Aashish Arora, Unacademy](https://1337x.to/torrent/5849702/Mains-Made-Easy-High-Level-Practice-Course-for-Bank-Exams-Mains-2023-Aashish-Arora/)
