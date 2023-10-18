@@ -56,6 +56,22 @@ toc: true
 
 - EG QA 2023
   - [Number System](https://1337x.to/torrent/5851007/Elites-Grid-QA-Number-System-for-CAT-2023/)
+  - [Algebra [1]](https://1337x.to/torrent/5851049/Elites-Grid-QA-2023-Algebra-for-CAT-I/)
+  - [Algebra [2]](https://1337x.to/torrent/5851054/Elites-Grid-QA-2023-Algebra-for-CAT-II/)
+  - [Algebra [3]](https://1337x.to/torrent/5851057/Elites-Grid-QA-2023-Algebra-for-CAT-III/)
+  - [Algebra [4]](https://1337x.to/torrent/5851061/Elites-Grid-QA-2023-Algebra-for-CAT-IV/)
+  - [Arithmetic[1]](https://1337x.to/torrent/5851075/EG-QA-Arithmetic-2023-lessons-for-CAT-I/)
+  - [Arithmetic[2]](https://1337x.to/torrent/5851081/EG-QA-Arithmetic-2023-lessons-for-CAT-II/)
+  - [Arithmetic[3]](https://1337x.to/torrent/5851085/EG-QA-Arithmetic-2023-lessons-for-CAT-III/)
+  - [Arithmetic[4]](https://1337x.to/torrent/5851086/EG-QA-Arithmetic-2023-lessons-for-CAT-IV/)
+  - [Geometry[1]](https://1337x.to/torrent/5851109/EG-QA-Geometry-2023-lessons-for-CAT-I/)
+  - [Geometry[2]](https://1337x.to/torrent/5851112/EG-QA-Geometry-2023-lessons-for-CAT-II/)
+  - [Geometry[3]](https://1337x.to/torrent/5851114/EG-QA-Geometry-2023-lessons-for-CAT-III/)
+  - [Geometry[4]](https://1337x.to/torrent/5851116/EG-QA-Geometry-2023-lessons-for-CAT-IV/)
+  - [Geometry[5]](https://1337x.to/torrent/5851120/EG-QA-Geometry-2023-lessons-for-CAT-V/)
+  - [Modern Math](https://1337x.to/torrent/5851122/EG-QA-Modern-Math-2023-lessons-for-CAT/)
+  - [Set Theory](https://1337x.to/torrent/5851127/EG-QA-Set-Theory-2023-lessons-for-CAT/)
+  - [Time, Speed and Distance](https://1337x.to/torrent/5851130/EG-QA-TSD-2023-lessons-for-CAT/)
 
 ----
 
