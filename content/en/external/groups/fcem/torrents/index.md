@@ -54,6 +54,11 @@ toc: true
 
 ----
 
+- EG QA 2023
+  - [Number System](https://1337x.to/torrent/5851007/Elites-Grid-QA-Number-System-for-CAT-2023/)
+
+----
+
 - [Comprehensive Course on Number System for CAT 2023 by Ravi Prakash, Unacademy](https://1337x.to/torrent/5833550/Comprehensive-Course-on-Number-System-for-CAT-2023-by-Ravi-Prakash-Unacademy/)
 - [Arithmetic for CAT by Ravi Prakash 2023](https://1337x.to/torrent/5779214/Arithmetic-for-CAT-by-Ravi-Prakash-2023/)
 <br><br>
