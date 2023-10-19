@@ -22,6 +22,7 @@ toc: true
 - [CAT MBA Study Materials](https://1337x.to/torrent/5712552/CAT-MBA-Study-Materials/)
 - [DILR 1000 by Career Launcher](https://1337x.to/torrent/5714102/DILR-1000-by-Career-Launcher/)
 - [Elites Grid LRDI 2022 CAT MBA](https://1337x.to/torrent/5709039/Elites-Grid-LRDI-2022-CAT-MBA/)
+- [CAT 2023 mocks by IMS, TIME and CL](https://1337x.to/torrent/5851154/CAT-2023-IMS-TIME-and-CL-mocks/)
 
 ----
 
