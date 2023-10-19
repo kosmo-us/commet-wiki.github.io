@@ -18,8 +18,7 @@ toc: true
 <br><br>
 <h3>FCEM community links</h3>
 <ul>
-<li><a href="https://t.me/FCEM_FREEMATERIAL">Telegram Channel</a> (last updated 15th Oct 2023)
-<li><a href="https://t.me/+cfcMSeOcBsM3YWM1">Telegram Group</a>
+<li><a href="https://t.me/+RS1b1pgPjYMwNjNl">Telegram Channel</a> (last updated 19th Oct 2023)
 </ul><br><br>
 <i>Before joining, please make sure to read the <a href="https://commet-wiki.github.io/external/groups/fcem/rules/">rules</a>. And <a href="https://commet-wiki.github.io/external/groups/fcem/torrents/">here's</a> the list of torrents we feature and seed.</i><br><br>If you are new to torrenting, you can always follow the official COMMET <a href="https://commet-wiki.github.io/docs/resources/get-start-torrent/">resources</a> and <a href="https://commet-wiki.github.io/docs/help/faq/">FAQ</a> for any beginner to intermediate level doubts.
 <br><br>
