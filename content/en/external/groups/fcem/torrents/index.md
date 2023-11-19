@@ -31,6 +31,7 @@ toc: true
   - [Module 3 and 4](https://1337x.to/torrent/5752420/VARC-1000-2023-by-Gejo-2/)
   - [Module 5 and module 6](https://1337x.to/torrent/5756273/VARC-1000-by-Gejo-3/)
   - [Strategy and Grammar Lessons](https://1337x.to/torrent/5829228/VARC-1000-2023-Strategy-and-Grammar-Lessons/)
+  - [NMAT-SNAP Addons](https://1337x.to/torrent/5857991/NMAT-SNAP-Addons-VARC-1000-by-Palash-Abhinav-Shrotriya-CL/)
 
 ----
 
