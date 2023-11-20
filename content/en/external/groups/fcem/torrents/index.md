@@ -79,6 +79,14 @@ toc: true
 
 - [Comprehensive Course on Number System for CAT 2023 by Ravi Prakash, Unacademy](https://1337x.to/torrent/5833550/Comprehensive-Course-on-Number-System-for-CAT-2023-by-Ravi-Prakash-Unacademy/)
 - [Arithmetic for CAT by Ravi Prakash 2023](https://1337x.to/torrent/5779214/Arithmetic-for-CAT-by-Ravi-Prakash-2023/)
+
+----
+
+- PW MBA Pioneer 2023 Batch
+  - [LRDI](https://1337x.to/torrent/5892141/PW-MBA-Pioneer-Batch-2023-LRDI-Lessons/)
+
+----
+
 <br><br>
 
 ### CS/IT
